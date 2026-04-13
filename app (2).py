@@ -1,12 +1,12 @@
 import streamlit as st
 import pickle
 import numpy as np
-import cv2
+# import cv2
 from PIL import Image
 import pytesseract
 import pdfplumber
 import tempfile
-from tensorflow.keras.models import load_model
+# from tensorflow.keras.models import load_model
 
 # ---------------- PAGE CONFIG ----------------
 st.set_page_config(
