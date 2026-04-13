@@ -3,7 +3,7 @@ import pickle
 import numpy as np
 import pandas as pd
 import plotly.graph_objects as go
-import cv2
+# import cv2
 from tensorflow.keras.models import load_model
 
 # -----------------------------
