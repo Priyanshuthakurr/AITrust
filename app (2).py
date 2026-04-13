@@ -4,7 +4,7 @@ import numpy as np
 # import cv2
 from PIL import Image
 # import pytesseract
-import pdfplumber
+# import pdfplumber
 import tempfile
 # from tensorflow.keras.models import load_model
 
