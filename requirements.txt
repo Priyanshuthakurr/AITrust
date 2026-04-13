@@ -1,9 +1,5 @@
 streamlit
 numpy
-opencv-python
 pillow
-pytesseract
-pdfplumber
 scikit-learn
-tensorflow
 plotly
